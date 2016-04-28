@@ -1,9 +1,9 @@
-# Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
+# Awesome PHP [![Build Status](https://api.travis-ci.org/coderxlsn/awesome-php.svg?branch=master)](https://travis-ci.org/coderxlsn/awesome-php)
 
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## Contributing
-Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) for details.
+Please see [CONTRIBUTING](https://github.com/coderxlsn/awesome-php/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/coderxlsn/awesome-php/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
