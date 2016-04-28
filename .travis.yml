@@ -6,4 +6,4 @@ before_script:
 script:
   - awesome_bot README.md --white-list igor.io,hoa-project.net
 notifications:
-  email: false
+  email: true
