@@ -264,7 +264,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 * [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 * [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
-* [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
+* [Imagine](http://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
@@ -846,7 +846,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Mentoring](http://phpmentoring.org/) - Peer to peer PHP mentorship organization.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
-* [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
+* [PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
